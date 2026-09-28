@@ -76,8 +76,8 @@ The performance of the models is evaluated using:
 
 ## 👥 Contributors
 
-Ramashankar prajapati
-nitesh yadav
+1. Ramashankar prajapati
+2. Nitesh yadav
 
 
 ## 📌 Project Purpose
